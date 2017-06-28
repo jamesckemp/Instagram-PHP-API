@@ -1,5 +1,5 @@
 {
-	"name": "jamesckemp/instagram",
+	"name": "jamesckemp/Instagram-PHP-API",
 	"type": "library",
 	"description": "An easy-to-use PHP Class for accessing Instagram's API.",
 	"keywords": ["instagram", "api"],
